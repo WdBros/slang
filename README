@@ -1,0 +1,15 @@
+# slang
+
+slang is a mini "language" for me to test out ways to create a script/programming language in C/C++
+
+# instruction
+
+currently (as of 2024-10-21) slang does not take arguments or read files, instead only reading STDIN until EOF (^D). you can feed in your program line by line and end it with CTRL+D, or do what i do:
+
+```
+cat src/program.sl | slang
+```
+
+# contributing
+
+um idk prolly don't waste your time unless you really wanna show me something cool lol
