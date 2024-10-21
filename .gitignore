@@ -1,0 +1,7 @@
+# compile into /bin
+# and write your code in /src
+/bin
+/src
+
+# vscode exclude
+/.vscode
